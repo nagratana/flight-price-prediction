@@ -157,9 +157,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Rakshit Panwar**
+**Nagratna**
 
-- GitHub: [@rakshitpanwar](https://github.com/rakshitpanwar)
+- GitHub: (https://github.com/nagratana)
 
 ## 🙏 Acknowledgments
 
