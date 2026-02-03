@@ -1,0 +1,12 @@
+# ML models
+*.pkl
+
+# Python
+__pycache__/
+venv/
+
+# Node
+node_modules/
+
+# Env
+.env
