@@ -1,10 +1,10 @@
-# ✈️ FlyHigh - Flight Booking Application
+# ️ FlyHigh - Flight Booking Application
 
 A modern, feature-rich flight booking web application built with React and Vite. FlyHigh offers a seamless user experience for searching and booking flights with a beautiful, responsive interface.
 
-## 🌟 Features
+##  Features
 
-### 🔐 User Authentication
+###  User Authentication
 
 - **Secure Login & Registration** - Complete authentication system with form validation
 - **Password Strength Indicator** - Real-time password strength feedback
@@ -12,14 +12,14 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - **Protected Routes** - Secure access to user-specific pages
 - **User Profile** - Personalized profile page with account management
 
-### ✈️ Flight Search & Booking
+### ️ Flight Search & Booking
 
 - **Smart Flight Search** - Search flights by origin, destination, and date
 - **Real-time Results** - Instant flight availability and pricing
 - **Multiple Airlines** - Support for various airlines and flight options
 - **Flexible Booking** - Easy-to-use booking interface
 
-### 🎨 User Interface
+###  User Interface
 
 - **Modern Design** - Clean, intuitive interface with smooth animations
 - **Dark/Light Mode** - Toggle between dark and light themes
@@ -27,14 +27,14 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - **Glassmorphism Effects** - Beautiful modern UI with glass-like elements
 - **Premium Aesthetics** - Vibrant gradients and dynamic animations
 
-### 🛡️ Security Features
+### ️ Security Features
 
 - **Input Validation** - Comprehensive client-side validation
 - **Secure Password Handling** - Password strength requirements
 - **Session Timeout** - Automatic logout for inactive users
 - **Protected Routes** - Authentication-required pages
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **Frontend Framework:** React 19.2.0
 - **Build Tool:** Vite 7.2.4
@@ -44,7 +44,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - **Utilities:** clsx, tailwind-merge
 - **Linting:** ESLint 9.39.1
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -75,14 +75,14 @@ A modern, feature-rich flight booking web application built with React and Vite.
 4. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 🛠️ Available Scripts
+## ️ Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 📱 Usage
+##  Usage
 
 ### Getting Started
 
@@ -110,7 +110,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
    - View and update your account information
    - Manage your bookings
 
-## 🎨 Features in Detail
+##  Features in Detail
 
 ### Authentication System
 
@@ -133,7 +133,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - Real-time flight availability
 - Detailed flight information display
 
-## 🔒 Security
+##  Security
 
 - Client-side input validation
 - Password strength enforcement
@@ -141,7 +141,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - Protected route implementation
 - Secure authentication flow
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
@@ -151,17 +151,17 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👤 Author
+##  Author
 
 **Nagratna**
 
 - GitHub: (https://github.com/nagratana)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - React team for the amazing framework
 - Vite for the blazing-fast build tool
