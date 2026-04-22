@@ -1,4 +1,4 @@
-# ️ FlyHigh - Flight Booking Application
+#  FlyHigh - Flight Booking Application
 
 A modern, feature-rich flight booking web application built with React and Vite. FlyHigh offers a seamless user experience for searching and booking flights with a beautiful, responsive interface.
 
@@ -12,7 +12,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - **Protected Routes** - Secure access to user-specific pages
 - **User Profile** - Personalized profile page with account management
 
-### ️ Flight Search & Booking
+###  Flight Search & Booking
 
 - **Smart Flight Search** - Search flights by origin, destination, and date
 - **Real-time Results** - Instant flight availability and pricing
@@ -27,7 +27,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 - **Glassmorphism Effects** - Beautiful modern UI with glass-like elements
 - **Premium Aesthetics** - Vibrant gradients and dynamic animations
 
-### ️ Security Features
+###  Security Features
 
 - **Input Validation** - Comprehensive client-side validation
 - **Secure Password Handling** - Password strength requirements
@@ -75,7 +75,7 @@ A modern, feature-rich flight booking web application built with React and Vite.
 4. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## ️ Available Scripts
+##  Available Scripts
 
 - `npm run dev` - Start development server
 - `npm run build` - Build for production
